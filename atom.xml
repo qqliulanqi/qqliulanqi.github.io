@@ -49,6 +49,38 @@
   </entry>
   
   <entry>
+    <title>音量增强器的使用</title>
+    <link href="http://yoursite.com/2018/03/27/%E9%9F%B3%E9%87%8F%E5%A2%9E%E5%BC%BA%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2018/03/27/音量增强器的使用/</id>
+    <published>2018-03-27T14:15:34.000Z</published>
+    <updated>2018-04-06T08:24:53.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>lalalla====================<a href="http://www.baidu.com" target="_blank" rel="noopener">百度</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;lalalla====================&lt;a href=&quot;http://www.baidu.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2018/03/26/hello-world/"/>
     <id>http://yoursite.com/2018/03/26/hello-world/</id>
